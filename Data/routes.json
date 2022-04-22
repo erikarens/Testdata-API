@@ -1,0 +1,16 @@
+{
+  "routes": [
+    {
+      "id": 1,
+      "name": "route1"
+    },
+    {
+      "id": 2,
+      "name": "route2"
+    },
+    {
+      "id": 3,
+      "name": "route3"
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "customerArray": [
+    {
+      "customerId": "K1234545",
+      "customerFunction": 0,
+      "customerLocked": false,
+      "matchCode": "BesteFirmaderWelt",
+      "name1": "Ich bin der Name 1",
+      "name2": "Ich bin der Name 2",
+      "customerAddress": {
+        "street": "BesteStraßederWelt",
+        "streetNumber": "49a",
+        "postCode": "57368",
+        "city": "Lennestadt",
+        "country": "Deutschland",
+        "geoCoord": {
+          "longitudeCoord": 52.283,
+          "latitudeCoord": 7.717
+        }
+      },
+      "phone": "0145221551",
+      "eMail": "test@trashmail.de",
+      "homepage": "www.google.de",
+      "branch": "Testbranche",
+      "association": "Raab Kracher",
+      "salesNow": 540.25,
+      "salesThen": 340.67,
+      "routeName": "Route1",
+      "commentVF": "Ich bin ein Kommentar von VF",
+      "commentAcquisition": "Bei diesem Kunden gibt es eine gute Möglichkeit zur Akquise",
+      "valuation": 2.5,
+      "basePoint": true,
+      "lastDelivery": "2022-02-21T18:26:15.0795364+01:00",
+      "lastContactDate": "2022-02-21T18:26:15.0795543+01:00",
+      "lastContactPerson": "Mirco Fischer"
+    },
+    {
+      "customerId": "K3235",
+      "customerFunction": 0,
+      "customerLocked": false,
+      "matchCode": "BesteFirmaderWelt",
+      "name1": "Ich bin der Name 1",
+      "name2": "Ich bin der Name 2",
+      "customerAddress": {
+        "street": "BesteStraßederWelt",
+        "streetNumber": "49a",
+        "postCode": "57368",
+        "city": "Lennestadt",
+        "country": "Deutschland",
+        "geoCoord": {
+          "longitudeCoord": 48.517,
+          "latitudeCoord": 11.117
+        }
+      },
+      "phone": "0145221551",
+      "eMail": "test@trashmail.de",
+      "homepage": "www.google.de",
+      "branch": "Testbranche",
+      "association": "ZEB",
+      "salesNow": 540.25,
+      "salesThen": 340.67,
+      "routeName": "Route1",
+      "commentVF": "Ich bin ein Kommentar von VF",
+      "commentAcquisition": "Bei diesem Kunden gibt es eine gute Möglichkeit zur Akquise",
+      "valuation": 2.5,
+      "basePoint": false,
+      "lastDelivery": "2022-02-21T18:26:15.0795725+01:00",
+      "lastContactDate": "2022-02-21T18:26:15.0795726+01:00",
+      "lastContactPerson": "Mirco Fischer"
+    },
+    {
+      "customerId": "K3235",
+      "customerFunction": 0,
+      "customerLocked": false,
+      "matchCode": "BesteFirmaderWelt",
+      "name1": "Ich bin der Name 1",
+      "name2": "Ich bin der Name 2",
+      "customerAddress": {
+        "street": "BesteStraßederWelt",
+        "streetNumber": "49a",
+        "postCode": "57368",
+        "city": "Lennestadt",
+        "country": "Deutschland",
+        "geoCoord": {
+          "longitudeCoord": 51.995,
+          "latitudeCoord": 13.087
+        }
+      },
+      "phone": "0145221551",
+      "eMail": "test@trashmail.de",
+      "homepage": "www.google.de",
+      "branch": "Testbranche",
+      "association": "Hagebau",
+      "salesNow": 540.25,
+      "salesThen": 340.67,
+      "routeName": "Route1",
+      "commentVF": "Ich bin ein Kommentar von VF",
+      "commentAcquisition": "Bei diesem Kunden gibt es eine gute Möglichkeit zur Akquise",
+      "valuation": 2.5,
+      "basePoint": true,
+      "lastDelivery": "2022-02-21T18:26:15.079573+01:00",
+      "lastContactDate": "2022-02-21T18:26:15.0795731+01:00",
+      "lastContactPerson": "Mirco Fischer"
+    },
+    {
+      "customerId": "K8969",
+      "customerFunction": 0,
+      "customerLocked": false,
+      "matchCode": "BesteFirmaderWelt",
+      "name1": "Ich bin der Name 1",
+      "name2": "Ich bin der Name 2",
+      "customerAddress": {
+        "street": "BesteStraßederWelt",
+        "streetNumber": "49a",
+        "postCode": "57368",
+        "city": "Lennestadt",
+        "country": "Deutschland",
+        "geoCoord": {
+          "longitudeCoord": 54.083,
+          "latitudeCoord": 12.108
+        }
+      },
+      "phone": "0145221551",
+      "eMail": "test@trashmail.de",
+      "homepage": "www.google.de",
+      "branch": "Testbranche",
+      "association": "KO",
+      "salesNow": 540.25,
+      "salesThen": 340.67,
+      "routeName": "Route1",
+      "commentVF": "Ich bin ein Kommentar von VF",
+      "commentAcquisition": "Bei diesem Kunden gibt es eine gute Möglichkeit zur Akquise",
+      "valuation": 2.5,
+      "basePoint": true,
+      "lastDelivery": "2022-02-21T18:26:15.0795725+01:00",
+      "lastContactDate": "2022-02-21T18:26:15.0795726+01:00",
+      "lastContactPerson": "Mirco Fischer"
+    },
+    {
+      "customerId": "K3235",
+      "customerFunction": 0,
+      "customerLocked": false,
+      "matchCode": "BesteFirmaderWelt",
+      "name1": "Ich bin der Name 1",
+      "name2": "Ich bin der Name 2",
+      "customerAddress": {
+        "street": "BesteStraßederWelt",
+        "streetNumber": "49a",
+        "postCode": "57368",
+        "city": "Lennestadt",
+        "country": "Deutschland",
+        "geoCoord": {
+          "longitudeCoord": 50.417,
+          "latitudeCoord": 7.55
+        }
+      },
+      "phone": "0145221551",
+      "eMail": "test@trashmail.de",
+      "homepage": "www.google.de",
+      "branch": "Testbranche",
+      "association": "Bauvista",
+      "salesNow": 540.25,
+      "salesThen": 340.67,
+      "routeName": "Route1",
+      "commentVF": "Ich bin ein Kommentar von VF",
+      "commentAcquisition": "Bei diesem Kunden gibt es eine gute Möglichkeit zur Akquise",
+      "valuation": 2.5,
+      "basePoint": false,
+      "lastDelivery": "2022-02-21T18:26:15.0795725+01:00",
+      "lastContactDate": "2022-02-21T18:26:15.0795726+01:00",
+      "lastContactPerson": "Mirco Fischer"
+    },
+    {
+      "customerId": "K4856",
+      "customerFunction": 0,
+      "customerLocked": false,
+      "matchCode": "BesteFirmaderWelt",
+      "name1": "Ich bin der Name 1",
+      "name2": "Ich bin der Name 2",
+      "customerAddress": {
+        "street": "BesteStraßederWelt",
+        "streetNumber": "49a",
+        "postCode": "57368",
+        "city": "Lennestadt",
+        "country": "Deutschland",
+        "geoCoord": {
+          "longitudeCoord": 51.545,
+          "latitudeCoord": 9.905
+        }
+      },
+      "phone": "0145221551",
+      "eMail": "test@trashmail.de",
+      "homepage": "www.google.de",
+      "branch": "Testbranche",
+      "association": "none",
+      "salesNow": 540.25,
+      "salesThen": 340.67,
+      "routeName": "Route1",
+      "commentVF": "Ich bin ein Kommentar von VF",
+      "commentAcquisition": "Bei diesem Kunden gibt es eine gute Möglichkeit zur Akquise",
+      "valuation": 2.5,
+      "basePoint": false,
+      "lastDelivery": "2022-02-21T18:26:15.0795725+01:00",
+      "lastContactDate": "2022-02-21T18:26:15.0795726+01:00",
+      "lastContactPerson": "Mirco Fischer"
+    }
+  ]
+}
